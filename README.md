@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # python-fundamentals
 this repository contains the fundamental topics and programs of python
 =======
@@ -8,7 +8,7 @@ This repository contains my daily Python practice.
 
 ## Goal
 
-Master Python for Backend Development, AI, and Machine Learning.
+Build a strong Python foundation for Backend Development, AI and Machine Learning.
 
 ## Topics Covered
 
@@ -19,4 +19,10 @@ Master Python for Backend Development, AI, and Machine Learning.
 - OOP
 - File Handling
 - Exception Handling
->>>>>>> 4a19df0 (Initial commit with Day 1 Python practice)
+
+
+Day01 - Python Basics
+
+Day02 - Functions
+
+
