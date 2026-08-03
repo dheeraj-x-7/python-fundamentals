@@ -25,4 +25,9 @@ Day01 - Python Basics
 
 Day02 - Functions
 
+Day03 - Loops
+
+Day04 - Python Collections
+
+
 
