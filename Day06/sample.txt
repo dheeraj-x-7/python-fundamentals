@@ -1,0 +1,3 @@
+This is a sample file 
+ hello how are you?This file don't contain any useful information
+It created for learn the topic file handling in java
