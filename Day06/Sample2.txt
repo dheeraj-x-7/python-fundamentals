@@ -1,0 +1,14 @@
+{
+    "name": "Peter Parker",
+    "age": 21,
+    "Category": "SuperHero",
+    "Role": "SpiderMan",
+    "Friends": [
+        "Iron man",
+        "Hulk",
+        "Thor",
+        "Captain America",
+        "Dr. Strange"
+    ],
+    "Roll Num": 3000
+}
