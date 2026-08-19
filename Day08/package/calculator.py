@@ -8,6 +8,7 @@ def multiply(*nums):
     mul = 1
     for i in nums:
         mul *= i
+    return mul
 
 def subtract(a,b):
     return a-b
