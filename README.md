@@ -29,5 +29,13 @@ Day03 - Loops
 
 Day04 - Python Collections
 
+Day05 - String Manipulation
+
+Day06 - File Handling
+
+Day07 - Exception Handling
+
+Day08 - Modules and Packages 
+
 
 
