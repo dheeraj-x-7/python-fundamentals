@@ -35,7 +35,9 @@ Day06 - File Handling
 
 Day07 - Exception Handling
 
-Day08 - Modules and Packages 
+Day08 - Modules and Packages
+
+Day09 - Scope and Arguments Concept
 
 
 
