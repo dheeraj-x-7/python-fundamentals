@@ -50,7 +50,7 @@ class Student(User):
             self.course = course
             self.fees = fees
             self.email = email
-            Student.__student_count =+1
+            Student.__student_count +=1      
             self.stu_id = Student.__student_count
             self.marks ={}
 
